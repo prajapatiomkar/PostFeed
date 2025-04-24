@@ -1,6 +1,6 @@
 # 📬 Post Feed Application
 
-![Post Feed Screenshot](https://github.com/user-attachments/assets/b41a63c0-7893-4160-b2a3-de691feaa6b8))
+![Post Feed Screenshot](https://github.com/user-attachments/assets/b41a63c0-7893-4160-b2a3-de691feaa6b8)
 
 A full-stack web application for creating posts, adding comments, and searching content with real-time updates.
 
